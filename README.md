@@ -1,2 +1,1 @@
-# Dheeraj
-html file to generate profiles
+ https://dheeraj-ahirwar.github.io/StonePaperScissor/
